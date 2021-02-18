@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KingMarine-GH/marine-package/issues"
   },
-  "homepage": "https://github.com/KingMarine-GH/marine-package#readme"
+  "homepage": "https://github.com/KingMarine-GH/marine-package#readme",
+  "dependencies": {
+    "collections": "^5.1.12"
+  }
 }

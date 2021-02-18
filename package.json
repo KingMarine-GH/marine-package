@@ -1,8 +1,8 @@
 {
     "name": "@kingmarine/marine-package",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Fun little package that's really only useful for my applications. Though feel free to use it? Really just made this into a package so I can use require() instead of rfr().",
-    "main":"index.js",
+    "main": "index.mjs",
     "respository": "KingMarine-GH/marine-package",
     "license": "BSD-3-Clause License"
 }
